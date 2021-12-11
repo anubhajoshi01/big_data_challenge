@@ -1,0 +1,883 @@
+Country/area,Technology,Grid connection,Year,Installed electricity capacity by country/area (MW)
+Canada,On-grid Solar photovoltaic,Off-grid,2000,..
+Canada,On-grid Solar photovoltaic,Off-grid,2001,..
+Canada,On-grid Solar photovoltaic,Off-grid,2002,..
+Canada,On-grid Solar photovoltaic,Off-grid,2003,..
+Canada,On-grid Solar photovoltaic,Off-grid,2004,..
+Canada,On-grid Solar photovoltaic,Off-grid,2005,..
+Canada,On-grid Solar photovoltaic,Off-grid,2006,..
+Canada,On-grid Solar photovoltaic,Off-grid,2007,..
+Canada,On-grid Solar photovoltaic,Off-grid,2008,..
+Canada,On-grid Solar photovoltaic,Off-grid,2009,..
+Canada,On-grid Solar photovoltaic,Off-grid,2010,..
+Canada,On-grid Solar photovoltaic,Off-grid,2011,..
+Canada,On-grid Solar photovoltaic,Off-grid,2012,..
+Canada,On-grid Solar photovoltaic,Off-grid,2013,..
+Canada,On-grid Solar photovoltaic,Off-grid,2014,..
+Canada,On-grid Solar photovoltaic,Off-grid,2015,..
+Canada,On-grid Solar photovoltaic,Off-grid,2016,..
+Canada,On-grid Solar photovoltaic,Off-grid,2017,..
+Canada,On-grid Solar photovoltaic,Off-grid,2018,..
+Canada,On-grid Solar photovoltaic,Off-grid,2019,..
+Canada,On-grid Solar photovoltaic,Off-grid,2020,..
+Canada,On-grid Solar photovoltaic,On-grid,2000,7
+Canada,On-grid Solar photovoltaic,On-grid,2001,9
+Canada,On-grid Solar photovoltaic,On-grid,2002,10
+Canada,On-grid Solar photovoltaic,On-grid,2003,12
+Canada,On-grid Solar photovoltaic,On-grid,2004,14
+Canada,On-grid Solar photovoltaic,On-grid,2005,18
+Canada,On-grid Solar photovoltaic,On-grid,2006,22
+Canada,On-grid Solar photovoltaic,On-grid,2007,29
+Canada,On-grid Solar photovoltaic,On-grid,2008,38
+Canada,On-grid Solar photovoltaic,On-grid,2009,107
+Canada,On-grid Solar photovoltaic,On-grid,2010,249
+Canada,On-grid Solar photovoltaic,On-grid,2011,628
+Canada,On-grid Solar photovoltaic,On-grid,2012,766
+Canada,On-grid Solar photovoltaic,On-grid,2013,1210
+Canada,On-grid Solar photovoltaic,On-grid,2014,1843
+Canada,On-grid Solar photovoltaic,On-grid,2015,2519
+Canada,On-grid Solar photovoltaic,On-grid,2016,2665
+Canada,On-grid Solar photovoltaic,On-grid,2017,2932
+Canada,On-grid Solar photovoltaic,On-grid,2018,3095
+Canada,On-grid Solar photovoltaic,On-grid,2019,3327
+Canada,On-grid Solar photovoltaic,On-grid,2020,3342
+Canada,Off-grid Solar photovoltaic,Off-grid,2000,..
+Canada,Off-grid Solar photovoltaic,Off-grid,2001,..
+Canada,Off-grid Solar photovoltaic,Off-grid,2002,..
+Canada,Off-grid Solar photovoltaic,Off-grid,2003,..
+Canada,Off-grid Solar photovoltaic,Off-grid,2004,..
+Canada,Off-grid Solar photovoltaic,Off-grid,2005,..
+Canada,Off-grid Solar photovoltaic,Off-grid,2006,..
+Canada,Off-grid Solar photovoltaic,Off-grid,2007,..
+Canada,Off-grid Solar photovoltaic,Off-grid,2008,..
+Canada,Off-grid Solar photovoltaic,Off-grid,2009,..
+Canada,Off-grid Solar photovoltaic,Off-grid,2010,..
+Canada,Off-grid Solar photovoltaic,Off-grid,2011,..
+Canada,Off-grid Solar photovoltaic,Off-grid,2012,..
+Canada,Off-grid Solar photovoltaic,Off-grid,2013,..
+Canada,Off-grid Solar photovoltaic,Off-grid,2014,..
+Canada,Off-grid Solar photovoltaic,Off-grid,2015,..
+Canada,Off-grid Solar photovoltaic,Off-grid,2016,..
+Canada,Off-grid Solar photovoltaic,Off-grid,2017,..
+Canada,Off-grid Solar photovoltaic,Off-grid,2018,..
+Canada,Off-grid Solar photovoltaic,Off-grid,2019,..
+Canada,Off-grid Solar photovoltaic,Off-grid,2020,..
+Canada,Off-grid Solar photovoltaic,On-grid,2000,..
+Canada,Off-grid Solar photovoltaic,On-grid,2001,..
+Canada,Off-grid Solar photovoltaic,On-grid,2002,..
+Canada,Off-grid Solar photovoltaic,On-grid,2003,..
+Canada,Off-grid Solar photovoltaic,On-grid,2004,..
+Canada,Off-grid Solar photovoltaic,On-grid,2005,..
+Canada,Off-grid Solar photovoltaic,On-grid,2006,..
+Canada,Off-grid Solar photovoltaic,On-grid,2007,..
+Canada,Off-grid Solar photovoltaic,On-grid,2008,..
+Canada,Off-grid Solar photovoltaic,On-grid,2009,..
+Canada,Off-grid Solar photovoltaic,On-grid,2010,..
+Canada,Off-grid Solar photovoltaic,On-grid,2011,..
+Canada,Off-grid Solar photovoltaic,On-grid,2012,..
+Canada,Off-grid Solar photovoltaic,On-grid,2013,..
+Canada,Off-grid Solar photovoltaic,On-grid,2014,..
+Canada,Off-grid Solar photovoltaic,On-grid,2015,..
+Canada,Off-grid Solar photovoltaic,On-grid,2016,..
+Canada,Off-grid Solar photovoltaic,On-grid,2017,..
+Canada,Off-grid Solar photovoltaic,On-grid,2018,..
+Canada,Off-grid Solar photovoltaic,On-grid,2019,..
+Canada,Off-grid Solar photovoltaic,On-grid,2020,..
+Canada,Concentrated solar power,Off-grid,2000,..
+Canada,Concentrated solar power,Off-grid,2001,..
+Canada,Concentrated solar power,Off-grid,2002,..
+Canada,Concentrated solar power,Off-grid,2003,..
+Canada,Concentrated solar power,Off-grid,2004,..
+Canada,Concentrated solar power,Off-grid,2005,..
+Canada,Concentrated solar power,Off-grid,2006,..
+Canada,Concentrated solar power,Off-grid,2007,..
+Canada,Concentrated solar power,Off-grid,2008,..
+Canada,Concentrated solar power,Off-grid,2009,..
+Canada,Concentrated solar power,Off-grid,2010,..
+Canada,Concentrated solar power,Off-grid,2011,..
+Canada,Concentrated solar power,Off-grid,2012,..
+Canada,Concentrated solar power,Off-grid,2013,..
+Canada,Concentrated solar power,Off-grid,2014,..
+Canada,Concentrated solar power,Off-grid,2015,..
+Canada,Concentrated solar power,Off-grid,2016,..
+Canada,Concentrated solar power,Off-grid,2017,..
+Canada,Concentrated solar power,Off-grid,2018,..
+Canada,Concentrated solar power,Off-grid,2019,..
+Canada,Concentrated solar power,Off-grid,2020,..
+Canada,Concentrated solar power,On-grid,2000,..
+Canada,Concentrated solar power,On-grid,2001,..
+Canada,Concentrated solar power,On-grid,2002,..
+Canada,Concentrated solar power,On-grid,2003,..
+Canada,Concentrated solar power,On-grid,2004,..
+Canada,Concentrated solar power,On-grid,2005,..
+Canada,Concentrated solar power,On-grid,2006,..
+Canada,Concentrated solar power,On-grid,2007,..
+Canada,Concentrated solar power,On-grid,2008,..
+Canada,Concentrated solar power,On-grid,2009,..
+Canada,Concentrated solar power,On-grid,2010,..
+Canada,Concentrated solar power,On-grid,2011,..
+Canada,Concentrated solar power,On-grid,2012,..
+Canada,Concentrated solar power,On-grid,2013,..
+Canada,Concentrated solar power,On-grid,2014,..
+Canada,Concentrated solar power,On-grid,2015,..
+Canada,Concentrated solar power,On-grid,2016,..
+Canada,Concentrated solar power,On-grid,2017,..
+Canada,Concentrated solar power,On-grid,2018,..
+Canada,Concentrated solar power,On-grid,2019,..
+Canada,Concentrated solar power,On-grid,2020,..
+Canada,Onshore wind energy,Off-grid,2000,..
+Canada,Onshore wind energy,Off-grid,2001,..
+Canada,Onshore wind energy,Off-grid,2002,..
+Canada,Onshore wind energy,Off-grid,2003,..
+Canada,Onshore wind energy,Off-grid,2004,..
+Canada,Onshore wind energy,Off-grid,2005,..
+Canada,Onshore wind energy,Off-grid,2006,..
+Canada,Onshore wind energy,Off-grid,2007,..
+Canada,Onshore wind energy,Off-grid,2008,..
+Canada,Onshore wind energy,Off-grid,2009,..
+Canada,Onshore wind energy,Off-grid,2010,..
+Canada,Onshore wind energy,Off-grid,2011,..
+Canada,Onshore wind energy,Off-grid,2012,..
+Canada,Onshore wind energy,Off-grid,2013,..
+Canada,Onshore wind energy,Off-grid,2014,..
+Canada,Onshore wind energy,Off-grid,2015,..
+Canada,Onshore wind energy,Off-grid,2016,..
+Canada,Onshore wind energy,Off-grid,2017,..
+Canada,Onshore wind energy,Off-grid,2018,..
+Canada,Onshore wind energy,Off-grid,2019,..
+Canada,Onshore wind energy,Off-grid,2020,..
+Canada,Onshore wind energy,On-grid,2000,92
+Canada,Onshore wind energy,On-grid,2001,131
+Canada,Onshore wind energy,On-grid,2002,161
+Canada,Onshore wind energy,On-grid,2003,327
+Canada,Onshore wind energy,On-grid,2004,444
+Canada,Onshore wind energy,On-grid,2005,677
+Canada,Onshore wind energy,On-grid,2006,1423
+Canada,Onshore wind energy,On-grid,2007,1840
+Canada,Onshore wind energy,On-grid,2008,2336
+Canada,Onshore wind energy,On-grid,2009,3282
+Canada,Onshore wind energy,On-grid,2010,3967
+Canada,Onshore wind energy,On-grid,2011,5265
+Canada,Onshore wind energy,On-grid,2012,6201
+Canada,Onshore wind energy,On-grid,2013,7801
+Canada,Onshore wind energy,On-grid,2014,9694
+Canada,Onshore wind energy,On-grid,2015,11214
+Canada,Onshore wind energy,On-grid,2016,11973
+Canada,Onshore wind energy,On-grid,2017,12250
+Canada,Onshore wind energy,On-grid,2018,12816
+Canada,Onshore wind energy,On-grid,2019,13413
+Canada,Onshore wind energy,On-grid,2020,13577
+Canada,Offshore wind energy,Off-grid,2000,..
+Canada,Offshore wind energy,Off-grid,2001,..
+Canada,Offshore wind energy,Off-grid,2002,..
+Canada,Offshore wind energy,Off-grid,2003,..
+Canada,Offshore wind energy,Off-grid,2004,..
+Canada,Offshore wind energy,Off-grid,2005,..
+Canada,Offshore wind energy,Off-grid,2006,..
+Canada,Offshore wind energy,Off-grid,2007,..
+Canada,Offshore wind energy,Off-grid,2008,..
+Canada,Offshore wind energy,Off-grid,2009,..
+Canada,Offshore wind energy,Off-grid,2010,..
+Canada,Offshore wind energy,Off-grid,2011,..
+Canada,Offshore wind energy,Off-grid,2012,..
+Canada,Offshore wind energy,Off-grid,2013,..
+Canada,Offshore wind energy,Off-grid,2014,..
+Canada,Offshore wind energy,Off-grid,2015,..
+Canada,Offshore wind energy,Off-grid,2016,..
+Canada,Offshore wind energy,Off-grid,2017,..
+Canada,Offshore wind energy,Off-grid,2018,..
+Canada,Offshore wind energy,Off-grid,2019,..
+Canada,Offshore wind energy,Off-grid,2020,..
+Canada,Offshore wind energy,On-grid,2000,..
+Canada,Offshore wind energy,On-grid,2001,..
+Canada,Offshore wind energy,On-grid,2002,..
+Canada,Offshore wind energy,On-grid,2003,..
+Canada,Offshore wind energy,On-grid,2004,..
+Canada,Offshore wind energy,On-grid,2005,..
+Canada,Offshore wind energy,On-grid,2006,..
+Canada,Offshore wind energy,On-grid,2007,..
+Canada,Offshore wind energy,On-grid,2008,..
+Canada,Offshore wind energy,On-grid,2009,..
+Canada,Offshore wind energy,On-grid,2010,..
+Canada,Offshore wind energy,On-grid,2011,..
+Canada,Offshore wind energy,On-grid,2012,..
+Canada,Offshore wind energy,On-grid,2013,..
+Canada,Offshore wind energy,On-grid,2014,..
+Canada,Offshore wind energy,On-grid,2015,..
+Canada,Offshore wind energy,On-grid,2016,..
+Canada,Offshore wind energy,On-grid,2017,..
+Canada,Offshore wind energy,On-grid,2018,..
+Canada,Offshore wind energy,On-grid,2019,..
+Canada,Offshore wind energy,On-grid,2020,..
+Canada,Renewable hydropower,Off-grid,2000,..
+Canada,Renewable hydropower,Off-grid,2001,..
+Canada,Renewable hydropower,Off-grid,2002,..
+Canada,Renewable hydropower,Off-grid,2003,..
+Canada,Renewable hydropower,Off-grid,2004,..
+Canada,Renewable hydropower,Off-grid,2005,..
+Canada,Renewable hydropower,Off-grid,2006,..
+Canada,Renewable hydropower,Off-grid,2007,..
+Canada,Renewable hydropower,Off-grid,2008,..
+Canada,Renewable hydropower,Off-grid,2009,..
+Canada,Renewable hydropower,Off-grid,2010,..
+Canada,Renewable hydropower,Off-grid,2011,..
+Canada,Renewable hydropower,Off-grid,2012,..
+Canada,Renewable hydropower,Off-grid,2013,..
+Canada,Renewable hydropower,Off-grid,2014,..
+Canada,Renewable hydropower,Off-grid,2015,..
+Canada,Renewable hydropower,Off-grid,2016,..
+Canada,Renewable hydropower,Off-grid,2017,..
+Canada,Renewable hydropower,Off-grid,2018,..
+Canada,Renewable hydropower,Off-grid,2019,..
+Canada,Renewable hydropower,Off-grid,2020,..
+Canada,Renewable hydropower,On-grid,2000,67230
+Canada,Renewable hydropower,On-grid,2001,66882
+Canada,Renewable hydropower,On-grid,2002,69029
+Canada,Renewable hydropower,On-grid,2003,70197
+Canada,Renewable hydropower,On-grid,2004,70680
+Canada,Renewable hydropower,On-grid,2005,71801
+Canada,Renewable hydropower,On-grid,2006,72661
+Canada,Renewable hydropower,On-grid,2007,73281
+Canada,Renewable hydropower,On-grid,2008,74230
+Canada,Renewable hydropower,On-grid,2009,74510
+Canada,Renewable hydropower,On-grid,2010,74901
+Canada,Renewable hydropower,On-grid,2011,75396
+Canada,Renewable hydropower,On-grid,2012,75363
+Canada,Renewable hydropower,On-grid,2013,75337
+Canada,Renewable hydropower,On-grid,2014,75300
+Canada,Renewable hydropower,On-grid,2015,79231
+Canada,Renewable hydropower,On-grid,2016,80130
+Canada,Renewable hydropower,On-grid,2017,80657
+Canada,Renewable hydropower,On-grid,2018,81222
+Canada,Renewable hydropower,On-grid,2019,81222
+Canada,Renewable hydropower,On-grid,2020,81227
+Canada,Mixed Hydro Plants,Off-grid,2000,..
+Canada,Mixed Hydro Plants,Off-grid,2001,..
+Canada,Mixed Hydro Plants,Off-grid,2002,..
+Canada,Mixed Hydro Plants,Off-grid,2003,..
+Canada,Mixed Hydro Plants,Off-grid,2004,..
+Canada,Mixed Hydro Plants,Off-grid,2005,..
+Canada,Mixed Hydro Plants,Off-grid,2006,..
+Canada,Mixed Hydro Plants,Off-grid,2007,..
+Canada,Mixed Hydro Plants,Off-grid,2008,..
+Canada,Mixed Hydro Plants,Off-grid,2009,..
+Canada,Mixed Hydro Plants,Off-grid,2010,..
+Canada,Mixed Hydro Plants,Off-grid,2011,..
+Canada,Mixed Hydro Plants,Off-grid,2012,..
+Canada,Mixed Hydro Plants,Off-grid,2013,..
+Canada,Mixed Hydro Plants,Off-grid,2014,..
+Canada,Mixed Hydro Plants,Off-grid,2015,..
+Canada,Mixed Hydro Plants,Off-grid,2016,..
+Canada,Mixed Hydro Plants,Off-grid,2017,..
+Canada,Mixed Hydro Plants,Off-grid,2018,..
+Canada,Mixed Hydro Plants,Off-grid,2019,..
+Canada,Mixed Hydro Plants,Off-grid,2020,..
+Canada,Mixed Hydro Plants,On-grid,2000,..
+Canada,Mixed Hydro Plants,On-grid,2001,..
+Canada,Mixed Hydro Plants,On-grid,2002,..
+Canada,Mixed Hydro Plants,On-grid,2003,..
+Canada,Mixed Hydro Plants,On-grid,2004,..
+Canada,Mixed Hydro Plants,On-grid,2005,..
+Canada,Mixed Hydro Plants,On-grid,2006,..
+Canada,Mixed Hydro Plants,On-grid,2007,..
+Canada,Mixed Hydro Plants,On-grid,2008,..
+Canada,Mixed Hydro Plants,On-grid,2009,..
+Canada,Mixed Hydro Plants,On-grid,2010,..
+Canada,Mixed Hydro Plants,On-grid,2011,..
+Canada,Mixed Hydro Plants,On-grid,2012,..
+Canada,Mixed Hydro Plants,On-grid,2013,..
+Canada,Mixed Hydro Plants,On-grid,2014,..
+Canada,Mixed Hydro Plants,On-grid,2015,..
+Canada,Mixed Hydro Plants,On-grid,2016,..
+Canada,Mixed Hydro Plants,On-grid,2017,..
+Canada,Mixed Hydro Plants,On-grid,2018,..
+Canada,Mixed Hydro Plants,On-grid,2019,..
+Canada,Mixed Hydro Plants,On-grid,2020,..
+Canada,Pumped storage,Off-grid,2000,..
+Canada,Pumped storage,Off-grid,2001,..
+Canada,Pumped storage,Off-grid,2002,..
+Canada,Pumped storage,Off-grid,2003,..
+Canada,Pumped storage,Off-grid,2004,..
+Canada,Pumped storage,Off-grid,2005,..
+Canada,Pumped storage,Off-grid,2006,..
+Canada,Pumped storage,Off-grid,2007,..
+Canada,Pumped storage,Off-grid,2008,..
+Canada,Pumped storage,Off-grid,2009,..
+Canada,Pumped storage,Off-grid,2010,..
+Canada,Pumped storage,Off-grid,2011,..
+Canada,Pumped storage,Off-grid,2012,..
+Canada,Pumped storage,Off-grid,2013,..
+Canada,Pumped storage,Off-grid,2014,..
+Canada,Pumped storage,Off-grid,2015,..
+Canada,Pumped storage,Off-grid,2016,..
+Canada,Pumped storage,Off-grid,2017,..
+Canada,Pumped storage,Off-grid,2018,..
+Canada,Pumped storage,Off-grid,2019,..
+Canada,Pumped storage,Off-grid,2020,..
+Canada,Pumped storage,On-grid,2000,177
+Canada,Pumped storage,On-grid,2001,177
+Canada,Pumped storage,On-grid,2002,177
+Canada,Pumped storage,On-grid,2003,177
+Canada,Pumped storage,On-grid,2004,177
+Canada,Pumped storage,On-grid,2005,177
+Canada,Pumped storage,On-grid,2006,177
+Canada,Pumped storage,On-grid,2007,177
+Canada,Pumped storage,On-grid,2008,177
+Canada,Pumped storage,On-grid,2009,177
+Canada,Pumped storage,On-grid,2010,177
+Canada,Pumped storage,On-grid,2011,177
+Canada,Pumped storage,On-grid,2012,174
+Canada,Pumped storage,On-grid,2013,174
+Canada,Pumped storage,On-grid,2014,174
+Canada,Pumped storage,On-grid,2015,174
+Canada,Pumped storage,On-grid,2016,174
+Canada,Pumped storage,On-grid,2017,174
+Canada,Pumped storage,On-grid,2018,174
+Canada,Pumped storage,On-grid,2019,177
+Canada,Pumped storage,On-grid,2020,177
+Canada,Solid biofuels,Off-grid,2000,..
+Canada,Solid biofuels,Off-grid,2001,..
+Canada,Solid biofuels,Off-grid,2002,..
+Canada,Solid biofuels,Off-grid,2003,..
+Canada,Solid biofuels,Off-grid,2004,..
+Canada,Solid biofuels,Off-grid,2005,..
+Canada,Solid biofuels,Off-grid,2006,..
+Canada,Solid biofuels,Off-grid,2007,..
+Canada,Solid biofuels,Off-grid,2008,..
+Canada,Solid biofuels,Off-grid,2009,..
+Canada,Solid biofuels,Off-grid,2010,..
+Canada,Solid biofuels,Off-grid,2011,..
+Canada,Solid biofuels,Off-grid,2012,..
+Canada,Solid biofuels,Off-grid,2013,..
+Canada,Solid biofuels,Off-grid,2014,..
+Canada,Solid biofuels,Off-grid,2015,..
+Canada,Solid biofuels,Off-grid,2016,..
+Canada,Solid biofuels,Off-grid,2017,..
+Canada,Solid biofuels,Off-grid,2018,..
+Canada,Solid biofuels,Off-grid,2019,..
+Canada,Solid biofuels,Off-grid,2020,..
+Canada,Solid biofuels,On-grid,2000,1227
+Canada,Solid biofuels,On-grid,2001,1555
+Canada,Solid biofuels,On-grid,2002,1655
+Canada,Solid biofuels,On-grid,2003,1955
+Canada,Solid biofuels,On-grid,2004,1897
+Canada,Solid biofuels,On-grid,2005,1708
+Canada,Solid biofuels,On-grid,2006,1715
+Canada,Solid biofuels,On-grid,2007,1715
+Canada,Solid biofuels,On-grid,2008,1639
+Canada,Solid biofuels,On-grid,2009,1708
+Canada,Solid biofuels,On-grid,2010,1773
+Canada,Solid biofuels,On-grid,2011,1802
+Canada,Solid biofuels,On-grid,2012,1858
+Canada,Solid biofuels,On-grid,2013,1886
+Canada,Solid biofuels,On-grid,2014,2342
+Canada,Solid biofuels,On-grid,2015,2318
+Canada,Solid biofuels,On-grid,2016,2385
+Canada,Solid biofuels,On-grid,2017,2465
+Canada,Solid biofuels,On-grid,2018,2477
+Canada,Solid biofuels,On-grid,2019,2233
+Canada,Solid biofuels,On-grid,2020,2233
+Canada,Renewable municipal waste,Off-grid,2000,..
+Canada,Renewable municipal waste,Off-grid,2001,..
+Canada,Renewable municipal waste,Off-grid,2002,..
+Canada,Renewable municipal waste,Off-grid,2003,..
+Canada,Renewable municipal waste,Off-grid,2004,..
+Canada,Renewable municipal waste,Off-grid,2005,..
+Canada,Renewable municipal waste,Off-grid,2006,..
+Canada,Renewable municipal waste,Off-grid,2007,..
+Canada,Renewable municipal waste,Off-grid,2008,..
+Canada,Renewable municipal waste,Off-grid,2009,..
+Canada,Renewable municipal waste,Off-grid,2010,..
+Canada,Renewable municipal waste,Off-grid,2011,..
+Canada,Renewable municipal waste,Off-grid,2012,..
+Canada,Renewable municipal waste,Off-grid,2013,..
+Canada,Renewable municipal waste,Off-grid,2014,..
+Canada,Renewable municipal waste,Off-grid,2015,..
+Canada,Renewable municipal waste,Off-grid,2016,..
+Canada,Renewable municipal waste,Off-grid,2017,..
+Canada,Renewable municipal waste,Off-grid,2018,..
+Canada,Renewable municipal waste,Off-grid,2019,..
+Canada,Renewable municipal waste,Off-grid,2020,..
+Canada,Renewable municipal waste,On-grid,2000,7
+Canada,Renewable municipal waste,On-grid,2001,9
+Canada,Renewable municipal waste,On-grid,2002,7
+Canada,Renewable municipal waste,On-grid,2003,5.5
+Canada,Renewable municipal waste,On-grid,2004,5.5
+Canada,Renewable municipal waste,On-grid,2005,17.5
+Canada,Renewable municipal waste,On-grid,2006,17.5
+Canada,Renewable municipal waste,On-grid,2007,17.5
+Canada,Renewable municipal waste,On-grid,2008,17.5
+Canada,Renewable municipal waste,On-grid,2009,18
+Canada,Renewable municipal waste,On-grid,2010,17.5
+Canada,Renewable municipal waste,On-grid,2011,17.5
+Canada,Renewable municipal waste,On-grid,2012,38.5
+Canada,Renewable municipal waste,On-grid,2013,38.5
+Canada,Renewable municipal waste,On-grid,2014,38.5
+Canada,Renewable municipal waste,On-grid,2015,38.5
+Canada,Renewable municipal waste,On-grid,2016,38.5
+Canada,Renewable municipal waste,On-grid,2017,37.5
+Canada,Renewable municipal waste,On-grid,2018,37.5
+Canada,Renewable municipal waste,On-grid,2019,37.5
+Canada,Renewable municipal waste,On-grid,2020,37.5
+Canada,Liquid biofuels,Off-grid,2000,..
+Canada,Liquid biofuels,Off-grid,2001,..
+Canada,Liquid biofuels,Off-grid,2002,..
+Canada,Liquid biofuels,Off-grid,2003,..
+Canada,Liquid biofuels,Off-grid,2004,..
+Canada,Liquid biofuels,Off-grid,2005,..
+Canada,Liquid biofuels,Off-grid,2006,..
+Canada,Liquid biofuels,Off-grid,2007,..
+Canada,Liquid biofuels,Off-grid,2008,..
+Canada,Liquid biofuels,Off-grid,2009,..
+Canada,Liquid biofuels,Off-grid,2010,..
+Canada,Liquid biofuels,Off-grid,2011,..
+Canada,Liquid biofuels,Off-grid,2012,..
+Canada,Liquid biofuels,Off-grid,2013,..
+Canada,Liquid biofuels,Off-grid,2014,..
+Canada,Liquid biofuels,Off-grid,2015,..
+Canada,Liquid biofuels,Off-grid,2016,..
+Canada,Liquid biofuels,Off-grid,2017,..
+Canada,Liquid biofuels,Off-grid,2018,..
+Canada,Liquid biofuels,Off-grid,2019,..
+Canada,Liquid biofuels,Off-grid,2020,..
+Canada,Liquid biofuels,On-grid,2000,..
+Canada,Liquid biofuels,On-grid,2001,..
+Canada,Liquid biofuels,On-grid,2002,..
+Canada,Liquid biofuels,On-grid,2003,..
+Canada,Liquid biofuels,On-grid,2004,..
+Canada,Liquid biofuels,On-grid,2005,..
+Canada,Liquid biofuels,On-grid,2006,..
+Canada,Liquid biofuels,On-grid,2007,..
+Canada,Liquid biofuels,On-grid,2008,..
+Canada,Liquid biofuels,On-grid,2009,..
+Canada,Liquid biofuels,On-grid,2010,..
+Canada,Liquid biofuels,On-grid,2011,..
+Canada,Liquid biofuels,On-grid,2012,..
+Canada,Liquid biofuels,On-grid,2013,..
+Canada,Liquid biofuels,On-grid,2014,..
+Canada,Liquid biofuels,On-grid,2015,..
+Canada,Liquid biofuels,On-grid,2016,..
+Canada,Liquid biofuels,On-grid,2017,0
+Canada,Liquid biofuels,On-grid,2018,0
+Canada,Liquid biofuels,On-grid,2019,0
+Canada,Liquid biofuels,On-grid,2020,0
+Canada,Biogas,Off-grid,2000,..
+Canada,Biogas,Off-grid,2001,..
+Canada,Biogas,Off-grid,2002,..
+Canada,Biogas,Off-grid,2003,..
+Canada,Biogas,Off-grid,2004,..
+Canada,Biogas,Off-grid,2005,..
+Canada,Biogas,Off-grid,2006,..
+Canada,Biogas,Off-grid,2007,..
+Canada,Biogas,Off-grid,2008,..
+Canada,Biogas,Off-grid,2009,..
+Canada,Biogas,Off-grid,2010,..
+Canada,Biogas,Off-grid,2011,..
+Canada,Biogas,Off-grid,2012,..
+Canada,Biogas,Off-grid,2013,..
+Canada,Biogas,Off-grid,2014,..
+Canada,Biogas,Off-grid,2015,..
+Canada,Biogas,Off-grid,2016,..
+Canada,Biogas,Off-grid,2017,..
+Canada,Biogas,Off-grid,2018,..
+Canada,Biogas,Off-grid,2019,..
+Canada,Biogas,Off-grid,2020,..
+Canada,Biogas,On-grid,2000,104
+Canada,Biogas,On-grid,2001,101
+Canada,Biogas,On-grid,2002,101
+Canada,Biogas,On-grid,2003,101
+Canada,Biogas,On-grid,2004,102
+Canada,Biogas,On-grid,2005,129
+Canada,Biogas,On-grid,2006,129
+Canada,Biogas,On-grid,2007,127
+Canada,Biogas,On-grid,2008,126
+Canada,Biogas,On-grid,2009,136
+Canada,Biogas,On-grid,2010,136
+Canada,Biogas,On-grid,2011,130
+Canada,Biogas,On-grid,2012,116
+Canada,Biogas,On-grid,2013,116
+Canada,Biogas,On-grid,2014,116
+Canada,Biogas,On-grid,2015,116
+Canada,Biogas,On-grid,2016,116
+Canada,Biogas,On-grid,2017,139
+Canada,Biogas,On-grid,2018,139
+Canada,Biogas,On-grid,2019,139
+Canada,Biogas,On-grid,2020,145.9
+Canada,Geothermal energy,Off-grid,2000,..
+Canada,Geothermal energy,Off-grid,2001,..
+Canada,Geothermal energy,Off-grid,2002,..
+Canada,Geothermal energy,Off-grid,2003,..
+Canada,Geothermal energy,Off-grid,2004,..
+Canada,Geothermal energy,Off-grid,2005,..
+Canada,Geothermal energy,Off-grid,2006,..
+Canada,Geothermal energy,Off-grid,2007,..
+Canada,Geothermal energy,Off-grid,2008,..
+Canada,Geothermal energy,Off-grid,2009,..
+Canada,Geothermal energy,Off-grid,2010,..
+Canada,Geothermal energy,Off-grid,2011,..
+Canada,Geothermal energy,Off-grid,2012,..
+Canada,Geothermal energy,Off-grid,2013,..
+Canada,Geothermal energy,Off-grid,2014,..
+Canada,Geothermal energy,Off-grid,2015,..
+Canada,Geothermal energy,Off-grid,2016,..
+Canada,Geothermal energy,Off-grid,2017,..
+Canada,Geothermal energy,Off-grid,2018,..
+Canada,Geothermal energy,Off-grid,2019,..
+Canada,Geothermal energy,Off-grid,2020,..
+Canada,Geothermal energy,On-grid,2000,..
+Canada,Geothermal energy,On-grid,2001,..
+Canada,Geothermal energy,On-grid,2002,..
+Canada,Geothermal energy,On-grid,2003,..
+Canada,Geothermal energy,On-grid,2004,..
+Canada,Geothermal energy,On-grid,2005,..
+Canada,Geothermal energy,On-grid,2006,..
+Canada,Geothermal energy,On-grid,2007,..
+Canada,Geothermal energy,On-grid,2008,..
+Canada,Geothermal energy,On-grid,2009,..
+Canada,Geothermal energy,On-grid,2010,..
+Canada,Geothermal energy,On-grid,2011,..
+Canada,Geothermal energy,On-grid,2012,..
+Canada,Geothermal energy,On-grid,2013,..
+Canada,Geothermal energy,On-grid,2014,..
+Canada,Geothermal energy,On-grid,2015,..
+Canada,Geothermal energy,On-grid,2016,..
+Canada,Geothermal energy,On-grid,2017,..
+Canada,Geothermal energy,On-grid,2018,..
+Canada,Geothermal energy,On-grid,2019,..
+Canada,Geothermal energy,On-grid,2020,..
+Canada,Marine energy,Off-grid,2000,..
+Canada,Marine energy,Off-grid,2001,..
+Canada,Marine energy,Off-grid,2002,..
+Canada,Marine energy,Off-grid,2003,..
+Canada,Marine energy,Off-grid,2004,..
+Canada,Marine energy,Off-grid,2005,..
+Canada,Marine energy,Off-grid,2006,..
+Canada,Marine energy,Off-grid,2007,..
+Canada,Marine energy,Off-grid,2008,..
+Canada,Marine energy,Off-grid,2009,..
+Canada,Marine energy,Off-grid,2010,..
+Canada,Marine energy,Off-grid,2011,..
+Canada,Marine energy,Off-grid,2012,..
+Canada,Marine energy,Off-grid,2013,..
+Canada,Marine energy,Off-grid,2014,..
+Canada,Marine energy,Off-grid,2015,..
+Canada,Marine energy,Off-grid,2016,..
+Canada,Marine energy,Off-grid,2017,..
+Canada,Marine energy,Off-grid,2018,..
+Canada,Marine energy,Off-grid,2019,..
+Canada,Marine energy,Off-grid,2020,..
+Canada,Marine energy,On-grid,2000,20
+Canada,Marine energy,On-grid,2001,20
+Canada,Marine energy,On-grid,2002,20
+Canada,Marine energy,On-grid,2003,20
+Canada,Marine energy,On-grid,2004,20
+Canada,Marine energy,On-grid,2005,20
+Canada,Marine energy,On-grid,2006,20
+Canada,Marine energy,On-grid,2007,20
+Canada,Marine energy,On-grid,2008,20
+Canada,Marine energy,On-grid,2009,20
+Canada,Marine energy,On-grid,2010,20
+Canada,Marine energy,On-grid,2011,20
+Canada,Marine energy,On-grid,2012,20
+Canada,Marine energy,On-grid,2013,20
+Canada,Marine energy,On-grid,2014,20
+Canada,Marine energy,On-grid,2015,20
+Canada,Marine energy,On-grid,2016,20
+Canada,Marine energy,On-grid,2017,20
+Canada,Marine energy,On-grid,2018,20
+Canada,Marine energy,On-grid,2019,20
+Canada,Marine energy,On-grid,2020,20
+Canada,Fossil fuels,Off-grid,2000,..
+Canada,Fossil fuels,Off-grid,2001,..
+Canada,Fossil fuels,Off-grid,2002,..
+Canada,Fossil fuels,Off-grid,2003,..
+Canada,Fossil fuels,Off-grid,2004,..
+Canada,Fossil fuels,Off-grid,2005,..
+Canada,Fossil fuels,Off-grid,2006,..
+Canada,Fossil fuels,Off-grid,2007,..
+Canada,Fossil fuels,Off-grid,2008,..
+Canada,Fossil fuels,Off-grid,2009,..
+Canada,Fossil fuels,Off-grid,2010,..
+Canada,Fossil fuels,Off-grid,2011,..
+Canada,Fossil fuels,Off-grid,2012,..
+Canada,Fossil fuels,Off-grid,2013,..
+Canada,Fossil fuels,Off-grid,2014,..
+Canada,Fossil fuels,Off-grid,2015,..
+Canada,Fossil fuels,Off-grid,2016,..
+Canada,Fossil fuels,Off-grid,2017,..
+Canada,Fossil fuels,Off-grid,2018,..
+Canada,Fossil fuels,Off-grid,2019,..
+Canada,Fossil fuels,Off-grid,2020,..
+Canada,Fossil fuels,On-grid,2000,31838
+Canada,Fossil fuels,On-grid,2001,33029
+Canada,Fossil fuels,On-grid,2002,33197
+Canada,Fossil fuels,On-grid,2003,34856
+Canada,Fossil fuels,On-grid,2004,34309
+Canada,Fossil fuels,On-grid,2005,35513
+Canada,Fossil fuels,On-grid,2006,35416
+Canada,Fossil fuels,On-grid,2007,35504
+Canada,Fossil fuels,On-grid,2008,35320
+Canada,Fossil fuels,On-grid,2009,39137
+Canada,Fossil fuels,On-grid,2010,38568
+Canada,Fossil fuels,On-grid,2011,37060
+Canada,Fossil fuels,On-grid,2012,35321
+Canada,Fossil fuels,On-grid,2013,33125
+Canada,Fossil fuels,On-grid,2014,32912
+Canada,Fossil fuels,On-grid,2015,34360
+Canada,Fossil fuels,On-grid,2016,34979
+Canada,Fossil fuels,On-grid,2017,34628
+Canada,Fossil fuels,On-grid,2018,34631
+Canada,Fossil fuels,On-grid,2019,34875
+Canada,Fossil fuels,On-grid,2020,34903.9
+Canada,Coal and peat,Off-grid,2000,..
+Canada,Coal and peat,Off-grid,2001,..
+Canada,Coal and peat,Off-grid,2002,..
+Canada,Coal and peat,Off-grid,2003,..
+Canada,Coal and peat,Off-grid,2004,..
+Canada,Coal and peat,Off-grid,2005,..
+Canada,Coal and peat,Off-grid,2006,..
+Canada,Coal and peat,Off-grid,2007,..
+Canada,Coal and peat,Off-grid,2008,..
+Canada,Coal and peat,Off-grid,2009,..
+Canada,Coal and peat,Off-grid,2010,..
+Canada,Coal and peat,Off-grid,2011,..
+Canada,Coal and peat,Off-grid,2012,..
+Canada,Coal and peat,Off-grid,2013,..
+Canada,Coal and peat,Off-grid,2014,..
+Canada,Coal and peat,Off-grid,2015,..
+Canada,Coal and peat,Off-grid,2016,..
+Canada,Coal and peat,Off-grid,2017,..
+Canada,Coal and peat,Off-grid,2018,..
+Canada,Coal and peat,Off-grid,2019,..
+Canada,Coal and peat,Off-grid,2020,..
+Canada,Coal and peat,On-grid,2000,..
+Canada,Coal and peat,On-grid,2001,..
+Canada,Coal and peat,On-grid,2002,..
+Canada,Coal and peat,On-grid,2003,..
+Canada,Coal and peat,On-grid,2004,..
+Canada,Coal and peat,On-grid,2005,14703
+Canada,Coal and peat,On-grid,2006,14701
+Canada,Coal and peat,On-grid,2007,16179
+Canada,Coal and peat,On-grid,2008,15940
+Canada,Coal and peat,On-grid,2009,16000
+Canada,Coal and peat,On-grid,2010,14123
+Canada,Coal and peat,On-grid,2011,13849
+Canada,Coal and peat,On-grid,2012,9900
+Canada,Coal and peat,On-grid,2013,9884
+Canada,Coal and peat,On-grid,2014,9827
+Canada,Coal and peat,On-grid,2015,9791
+Canada,Coal and peat,On-grid,2016,9641
+Canada,Coal and peat,On-grid,2017,9636
+Canada,Coal and peat,On-grid,2018,9689
+Canada,Coal and peat,On-grid,2019,9689
+Canada,Coal and peat,On-grid,2020,9309
+Canada,Oil,Off-grid,2000,..
+Canada,Oil,Off-grid,2001,..
+Canada,Oil,Off-grid,2002,..
+Canada,Oil,Off-grid,2003,..
+Canada,Oil,Off-grid,2004,..
+Canada,Oil,Off-grid,2005,..
+Canada,Oil,Off-grid,2006,..
+Canada,Oil,Off-grid,2007,..
+Canada,Oil,Off-grid,2008,..
+Canada,Oil,Off-grid,2009,..
+Canada,Oil,Off-grid,2010,..
+Canada,Oil,Off-grid,2011,..
+Canada,Oil,Off-grid,2012,..
+Canada,Oil,Off-grid,2013,..
+Canada,Oil,Off-grid,2014,..
+Canada,Oil,Off-grid,2015,..
+Canada,Oil,Off-grid,2016,..
+Canada,Oil,Off-grid,2017,..
+Canada,Oil,Off-grid,2018,..
+Canada,Oil,Off-grid,2019,..
+Canada,Oil,Off-grid,2020,..
+Canada,Oil,On-grid,2000,..
+Canada,Oil,On-grid,2001,..
+Canada,Oil,On-grid,2002,..
+Canada,Oil,On-grid,2003,..
+Canada,Oil,On-grid,2004,86
+Canada,Oil,On-grid,2005,7354
+Canada,Oil,On-grid,2006,7119
+Canada,Oil,On-grid,2007,7077
+Canada,Oil,On-grid,2008,7067
+Canada,Oil,On-grid,2009,7092
+Canada,Oil,On-grid,2010,6966
+Canada,Oil,On-grid,2011,6457
+Canada,Oil,On-grid,2012,6502
+Canada,Oil,On-grid,2013,6471
+Canada,Oil,On-grid,2014,6180
+Canada,Oil,On-grid,2015,6011
+Canada,Oil,On-grid,2016,5978
+Canada,Oil,On-grid,2017,6018
+Canada,Oil,On-grid,2018,6002
+Canada,Oil,On-grid,2019,6002
+Canada,Oil,On-grid,2020,6002
+Canada,Natural gas,Off-grid,2000,..
+Canada,Natural gas,Off-grid,2001,..
+Canada,Natural gas,Off-grid,2002,..
+Canada,Natural gas,Off-grid,2003,..
+Canada,Natural gas,Off-grid,2004,..
+Canada,Natural gas,Off-grid,2005,..
+Canada,Natural gas,Off-grid,2006,..
+Canada,Natural gas,Off-grid,2007,..
+Canada,Natural gas,Off-grid,2008,..
+Canada,Natural gas,Off-grid,2009,..
+Canada,Natural gas,Off-grid,2010,..
+Canada,Natural gas,Off-grid,2011,..
+Canada,Natural gas,Off-grid,2012,..
+Canada,Natural gas,Off-grid,2013,..
+Canada,Natural gas,Off-grid,2014,..
+Canada,Natural gas,Off-grid,2015,..
+Canada,Natural gas,Off-grid,2016,..
+Canada,Natural gas,Off-grid,2017,..
+Canada,Natural gas,Off-grid,2018,..
+Canada,Natural gas,Off-grid,2019,..
+Canada,Natural gas,Off-grid,2020,..
+Canada,Natural gas,On-grid,2000,..
+Canada,Natural gas,On-grid,2001,..
+Canada,Natural gas,On-grid,2002,..
+Canada,Natural gas,On-grid,2003,..
+Canada,Natural gas,On-grid,2004,2796
+Canada,Natural gas,On-grid,2005,11963
+Canada,Natural gas,On-grid,2006,11689
+Canada,Natural gas,On-grid,2007,10408
+Canada,Natural gas,On-grid,2008,10303
+Canada,Natural gas,On-grid,2009,12606
+Canada,Natural gas,On-grid,2010,13698
+Canada,Natural gas,On-grid,2011,13104
+Canada,Natural gas,On-grid,2012,15260
+Canada,Natural gas,On-grid,2013,15167
+Canada,Natural gas,On-grid,2014,15239
+Canada,Natural gas,On-grid,2015,16873
+Canada,Natural gas,On-grid,2016,17553
+Canada,Natural gas,On-grid,2017,17241
+Canada,Natural gas,On-grid,2018,17225
+Canada,Natural gas,On-grid,2019,17225
+Canada,Natural gas,On-grid,2020,17633.9
+Canada,Nuclear,Off-grid,2000,..
+Canada,Nuclear,Off-grid,2001,..
+Canada,Nuclear,Off-grid,2002,..
+Canada,Nuclear,Off-grid,2003,..
+Canada,Nuclear,Off-grid,2004,..
+Canada,Nuclear,Off-grid,2005,..
+Canada,Nuclear,Off-grid,2006,..
+Canada,Nuclear,Off-grid,2007,..
+Canada,Nuclear,Off-grid,2008,..
+Canada,Nuclear,Off-grid,2009,..
+Canada,Nuclear,Off-grid,2010,..
+Canada,Nuclear,Off-grid,2011,..
+Canada,Nuclear,Off-grid,2012,..
+Canada,Nuclear,Off-grid,2013,..
+Canada,Nuclear,Off-grid,2014,..
+Canada,Nuclear,Off-grid,2015,..
+Canada,Nuclear,Off-grid,2016,..
+Canada,Nuclear,Off-grid,2017,..
+Canada,Nuclear,Off-grid,2018,..
+Canada,Nuclear,Off-grid,2019,..
+Canada,Nuclear,Off-grid,2020,..
+Canada,Nuclear,On-grid,2000,10615
+Canada,Nuclear,On-grid,2001,10615
+Canada,Nuclear,On-grid,2002,10615
+Canada,Nuclear,On-grid,2003,10615
+Canada,Nuclear,On-grid,2004,12805
+Canada,Nuclear,On-grid,2005,13345
+Canada,Nuclear,On-grid,2006,13345
+Canada,Nuclear,On-grid,2007,13345
+Canada,Nuclear,On-grid,2008,13345
+Canada,Nuclear,On-grid,2009,12665
+Canada,Nuclear,On-grid,2010,12665
+Canada,Nuclear,On-grid,2011,12665
+Canada,Nuclear,On-grid,2012,13370
+Canada,Nuclear,On-grid,2013,14033
+Canada,Nuclear,On-grid,2014,14033
+Canada,Nuclear,On-grid,2015,14033
+Canada,Nuclear,On-grid,2016,14033
+Canada,Nuclear,On-grid,2017,14033
+Canada,Nuclear,On-grid,2018,14033
+Canada,Nuclear,On-grid,2019,14033
+Canada,Nuclear,On-grid,2020,14033
+Canada,Fossil fuels n.e.s.,Off-grid,2000,..
+Canada,Fossil fuels n.e.s.,Off-grid,2001,..
+Canada,Fossil fuels n.e.s.,Off-grid,2002,..
+Canada,Fossil fuels n.e.s.,Off-grid,2003,..
+Canada,Fossil fuels n.e.s.,Off-grid,2004,..
+Canada,Fossil fuels n.e.s.,Off-grid,2005,..
+Canada,Fossil fuels n.e.s.,Off-grid,2006,..
+Canada,Fossil fuels n.e.s.,Off-grid,2007,..
+Canada,Fossil fuels n.e.s.,Off-grid,2008,..
+Canada,Fossil fuels n.e.s.,Off-grid,2009,..
+Canada,Fossil fuels n.e.s.,Off-grid,2010,..
+Canada,Fossil fuels n.e.s.,Off-grid,2011,..
+Canada,Fossil fuels n.e.s.,Off-grid,2012,..
+Canada,Fossil fuels n.e.s.,Off-grid,2013,..
+Canada,Fossil fuels n.e.s.,Off-grid,2014,..
+Canada,Fossil fuels n.e.s.,Off-grid,2015,..
+Canada,Fossil fuels n.e.s.,Off-grid,2016,..
+Canada,Fossil fuels n.e.s.,Off-grid,2017,..
+Canada,Fossil fuels n.e.s.,Off-grid,2018,..
+Canada,Fossil fuels n.e.s.,Off-grid,2019,..
+Canada,Fossil fuels n.e.s.,Off-grid,2020,..
+Canada,Fossil fuels n.e.s.,On-grid,2000,31838
+Canada,Fossil fuels n.e.s.,On-grid,2001,33029
+Canada,Fossil fuels n.e.s.,On-grid,2002,33197
+Canada,Fossil fuels n.e.s.,On-grid,2003,34856
+Canada,Fossil fuels n.e.s.,On-grid,2004,31427
+Canada,Fossil fuels n.e.s.,On-grid,2005,1493
+Canada,Fossil fuels n.e.s.,On-grid,2006,1907
+Canada,Fossil fuels n.e.s.,On-grid,2007,1840
+Canada,Fossil fuels n.e.s.,On-grid,2008,2010
+Canada,Fossil fuels n.e.s.,On-grid,2009,3439
+Canada,Fossil fuels n.e.s.,On-grid,2010,3781
+Canada,Fossil fuels n.e.s.,On-grid,2011,3650
+Canada,Fossil fuels n.e.s.,On-grid,2012,3659
+Canada,Fossil fuels n.e.s.,On-grid,2013,1603
+Canada,Fossil fuels n.e.s.,On-grid,2014,1666
+Canada,Fossil fuels n.e.s.,On-grid,2015,1685
+Canada,Fossil fuels n.e.s.,On-grid,2016,1807
+Canada,Fossil fuels n.e.s.,On-grid,2017,1733
+Canada,Fossil fuels n.e.s.,On-grid,2018,1715
+Canada,Fossil fuels n.e.s.,On-grid,2019,1959
+Canada,Fossil fuels n.e.s.,On-grid,2020,1959
+Canada,Other non-renewable energy,Off-grid,2000,..
+Canada,Other non-renewable energy,Off-grid,2001,..
+Canada,Other non-renewable energy,Off-grid,2002,..
+Canada,Other non-renewable energy,Off-grid,2003,..
+Canada,Other non-renewable energy,Off-grid,2004,..
+Canada,Other non-renewable energy,Off-grid,2005,..
+Canada,Other non-renewable energy,Off-grid,2006,..
+Canada,Other non-renewable energy,Off-grid,2007,..
+Canada,Other non-renewable energy,Off-grid,2008,..
+Canada,Other non-renewable energy,Off-grid,2009,..
+Canada,Other non-renewable energy,Off-grid,2010,..
+Canada,Other non-renewable energy,Off-grid,2011,..
+Canada,Other non-renewable energy,Off-grid,2012,..
+Canada,Other non-renewable energy,Off-grid,2013,..
+Canada,Other non-renewable energy,Off-grid,2014,..
+Canada,Other non-renewable energy,Off-grid,2015,..
+Canada,Other non-renewable energy,Off-grid,2016,..
+Canada,Other non-renewable energy,Off-grid,2017,..
+Canada,Other non-renewable energy,Off-grid,2018,..
+Canada,Other non-renewable energy,Off-grid,2019,..
+Canada,Other non-renewable energy,Off-grid,2020,..
+Canada,Other non-renewable energy,On-grid,2000,7
+Canada,Other non-renewable energy,On-grid,2001,9
+Canada,Other non-renewable energy,On-grid,2002,7
+Canada,Other non-renewable energy,On-grid,2003,5.5
+Canada,Other non-renewable energy,On-grid,2004,5.5
+Canada,Other non-renewable energy,On-grid,2005,17.5
+Canada,Other non-renewable energy,On-grid,2006,17.5
+Canada,Other non-renewable energy,On-grid,2007,17.5
+Canada,Other non-renewable energy,On-grid,2008,17.5
+Canada,Other non-renewable energy,On-grid,2009,18
+Canada,Other non-renewable energy,On-grid,2010,17.5
+Canada,Other non-renewable energy,On-grid,2011,17.5
+Canada,Other non-renewable energy,On-grid,2012,38.5
+Canada,Other non-renewable energy,On-grid,2013,38.5
+Canada,Other non-renewable energy,On-grid,2014,38.5
+Canada,Other non-renewable energy,On-grid,2015,38.5
+Canada,Other non-renewable energy,On-grid,2016,38.5
+Canada,Other non-renewable energy,On-grid,2017,37.5
+Canada,Other non-renewable energy,On-grid,2018,37.5
+Canada,Other non-renewable energy,On-grid,2019,37.5
+Canada,Other non-renewable energy,On-grid,2020,37.5
