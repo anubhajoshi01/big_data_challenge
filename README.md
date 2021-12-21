@@ -5,3 +5,5 @@ Topics include:
 - Seeing how GINI index of a country relates to its clean energy usage
 - Comparing different clean energy sources and their usage over time
 - Comparing prices for clean technologies such as EVs and what factors play into price
+
+The analysis was done using python and sci-kit learn with ML algorithms such as mean shift, and linear regression, and graphing results using Matplotlib
