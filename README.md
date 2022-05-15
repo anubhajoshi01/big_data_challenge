@@ -7,3 +7,5 @@ Topics include:
 - Comparing prices for clean technologies such as EVs and what factors play into price
 
 The analysis was done using python and sci-kit learn with ML algorithms such as mean shift, and linear regression, and graphing results using Matplotlib
+
+Our final report was on Factors that affect renewable energy generation in remote communities. It can be viewed here:https://drive.google.com/file/d/1j3_6b42W6Ym-7OtCsiM0jnX7szqFDI1z/view
